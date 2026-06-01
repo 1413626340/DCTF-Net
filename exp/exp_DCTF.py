@@ -11,11 +11,7 @@ import os
 import torch
 import matplotlib.pyplot as plt
 
-# ========== Model ==========
-# Make sure the file exists:
-# models/DCTF_model_cc.py
-# and the class inside it is named:
-# class DCTFmodel(...)
+
 from models.DCTF_model_cc import DCTFmodel
 
 
